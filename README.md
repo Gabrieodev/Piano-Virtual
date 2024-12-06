@@ -19,7 +19,7 @@ Bem-vindo ao **Simulador de Piano Virtual**! Um projeto do Bootcamp da DIO, inte
 
 Clique no link abaixo para experimentar o simulador e soltar sua criatividade musical!  
 
-👉 [Jogar Simulador de Piano Virtual](#)
+👉 [Jogar Simulador de Piano Virtual](https://gabrieodev.github.io/Piano-Virtual/)
 
 ## 📸 Preview
 
